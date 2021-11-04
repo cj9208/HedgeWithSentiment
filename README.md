@@ -3,6 +3,7 @@
 * Data
   * option data: OptionMetrics from WRDS
   * stock price data : CRSP from WRDS (not ajusted) or from yahoo finance (yfinance package)
+  * It was put outside the code folder.  eg. './data/'
   
 * preprocess  (all most the same except for dealing with input)
   * option_preprocess.py
