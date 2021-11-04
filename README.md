@@ -16,3 +16,6 @@
   * stock_forecast.py   
 
 * models : folder core    
+
+* main.ipynb (middle results, plots, etc.)
+ 
